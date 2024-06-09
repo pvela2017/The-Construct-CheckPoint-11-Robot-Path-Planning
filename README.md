@@ -1,4 +1,4 @@
-# CheckPoint 11 Robot PathPlanning
+# CheckPoint 11 Robot Path Planning
 
 <a name="readme-top"></a>
 
@@ -54,5 +54,5 @@ The purpose of this project is to implement a Dijkstra algoritm for obstacle avo
 
 
 <!-- KEYS -->
-## Key topics learnt
+## Key Topics Learnt
 * ROS2 custom planners.
